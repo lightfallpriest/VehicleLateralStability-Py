@@ -380,8 +380,8 @@ This repository serves as a **baseline implementation** for vehicle lateral cont
 
 **Author: Ayushman Mishra**
 
-> **LinkedIn:** https://www.linkedin.com/in/aymisxx/
+> **LinkedIn:** https://www.linkedin.com/in/infinitepriest/
 
-> **GitHub:** https://github.com/aymisxx/
+> **GitHub:** https://github.com/infinitepriest/
 
 ---
